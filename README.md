@@ -1,9 +1,4 @@
 # Wallet Recovery and Random Wallet Checker
-
-This repository contains two Python scripts designed for recovering Bitcoin wallets from mnemonic phrases and checking random Bitcoin wallets for balances.
-
-### Random Wallet Recovery Tool
-
 This tool is designed to recover Bitcoin wallets from randomly generated mnemonic phrases or partially remembered mnemonic phrases. It leverages multiple blockchain APIs to check the balance of recovered wallets.
 
 ---
